@@ -8,3 +8,5 @@ git status
 git log
 git local
 git 
+git branch
+git bash:
