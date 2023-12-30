@@ -10,3 +10,5 @@ git local
 git 
 git branch
 git bash:
+git checkout my-branch
+git pull
